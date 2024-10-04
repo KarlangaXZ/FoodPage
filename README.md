@@ -1,2 +1,2 @@
 # FoodPage
-Ejemplo pagina de restaurante
+Ejemplo pagina de restaurante.
